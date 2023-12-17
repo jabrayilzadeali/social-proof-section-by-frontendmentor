@@ -749,7 +749,7 @@ h6 {
     .grid-md {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 300px repeat(2, 1fr);
+        grid-template-rows: 300px 1fr;
     }
 
     .place-content-md-center {
