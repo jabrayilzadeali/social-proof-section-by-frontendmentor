@@ -689,6 +689,10 @@ h6 {
     justify-content: flex-end;
 }
 
+.justify-center {
+    justify-content: center;
+}
+
 .justify-between {
     justify-content: space-between;
 }
@@ -783,6 +787,4 @@ h6 {
     .translate-md-x-4 {
         transform: translateX(-4rem);
     }
-
-    
 }

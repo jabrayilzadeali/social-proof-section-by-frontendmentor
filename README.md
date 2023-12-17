@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/social-proof-section-by-ali-jabrayilzade-ubGuJ3wKhH)
 - Live Site URL: [here](https://social-proof-section-ali-jabrayilzade.netlify.app/)
 
 ## My process
